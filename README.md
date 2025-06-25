@@ -70,13 +70,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jakep84&show_icons=true&theme=dark&count_private=true" height="150"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jakep84&theme=dark" height="150"/>
-</p>
-
----
-
-<p align="center">
   <strong>Let’s prototype the impossible.</strong><br/>
   AR, AI, IoT, games, automation — whatever your idea is, I can build it. And fast.
 </p>
